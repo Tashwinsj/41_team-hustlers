@@ -1,0 +1,8 @@
+.feature{
+    display: flex;
+    height: 50px; 
+    width: 160px; 
+    border-radius: 10px; 
+    margin: 20px;
+    background-color: #FA9884;
+}
